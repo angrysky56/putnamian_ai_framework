@@ -105,11 +105,60 @@ scenarios = [
 
 ---
 
-## 🚀 **Phase 2: Complex, Multi-Variable Contradictions**
+## 🚀 **Phase 2: Complex, Multi-Variable Contradictions** → **Phase 1.5: HCDCI Integration**
 
-### **Vision**: Beyond Binary Conflicts
-**Goal**: Challenge CDNE with sophisticated contradictions that force advanced evolution
-**Timeline**: 4-6 weeks after Phase 1 completion
+### **NEW: HCDCI Integration Phase** ⭐ **HIGH PRIORITY**
+**Vision**: Integrate Hierarchical Contradiction-Driven Collective Intelligence
+**Timeline**: 3-4 weeks (insert before Phase 2)
+**Rationale**: Your HCDCI framework addresses multiple critical limitations identified in our analysis
+
+#### **HCDCI Core Components**
+- **Ethical Constraint Networks**: EACIN-based hierarchical filtering (deontology → virtue → utility)
+- **Archetypal Collective Intelligence**: Universal Collective with culturally adaptable agents
+- **Semantic Integration**: SLAP symbolic-subsymbolic bridging
+- **NEAT Evolution**: Scalable network topology adaptation
+- **Temporal Consistency**: Meta-learning for time-based coherence
+
+#### **Integration Benefits**
+- ✅ **Addresses Ethical Evolution Critique**: Ethical constraints that adapt rather than being fixed
+- ✅ **Resolves Cultural Bias**: Archetypal agents with cultural/historical parameterization
+- ✅ **Bridges Symbolic-Subsymbolic Gap**: SLAP integration for formal reasoning
+- ✅ **Enables Scalability**: NEAT evolution for complex network topologies
+- ✅ **Temporal Intelligence**: Consistency tracking across time
+
+#### **Implementation Strategy**
+1. **Create HCDCI Module**: `putnamian_ai/hcdci/`
+2. **Integrate with EnhancedCDNE**: Extend `EnhancedCDNENetwork` with HCDCI layers
+3. **Ethical Constraints**: Implement EACIN hierarchical model
+4. **Archetypal Agents**: Create culturally diverse agent collective
+5. **Semantic Processing**: Bridge CDNE behaviors with formal logic
+6. **Testing & Validation**: Comprehensive integration tests
+
+### **Updated Development Timeline**
+
+#### **Phase 1: Solidifying Evolution** ✅ **IN PROGRESS**
+- Enhanced connection integration
+- Synthesis pathway creation
+- **NEW**: HCDCI foundation layer integration
+
+#### **Phase 1.5: HCDCI Integration** 🚧 **NEXT**
+- Ethical constraint networks
+- Archetypal collective intelligence
+- Semantic formalization (SLAP)
+- NEAT evolution capability
+- Temporal consistency tracking
+
+#### **Phase 2: Advanced Contradictions** 🎯 **FUTURE**
+- Multi-variable conflict scenarios
+- Social dilemma environments
+- Cross-modal integration
+- Performance benchmarking
+
+#### **Phase 3: Metacognition Metrics** 🔬 **VISION**
+- Internal monitoring infrastructure
+- Knowledge quantification
+- Consciousness emergence studies
+- Philosophical validation
 
 ### **Phase 2A: Advanced Conflict Scenarios**
 
